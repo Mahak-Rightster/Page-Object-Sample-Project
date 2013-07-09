@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Suite1]]]">
+  <test name="Regression1(failed)(failed)(failed)">
+    <classes>
+      <class name="tests.SignInTests">
+        <methods>
+          <include name="SignInRightsterUserTest"/>
+          <include name="assessor"/>
+        </methods>
+      </class> <!-- tests.SignInTests -->
+    </classes>
+  </test> <!-- Regression1(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite1]]] -->
