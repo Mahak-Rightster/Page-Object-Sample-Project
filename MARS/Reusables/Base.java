@@ -27,7 +27,7 @@ public class Base extends DriverLoad{
 	public void Launch_FuncTest()
 	
 	{
-		getFirefox().navigate().to("https://176.34.240.152/user/login");
+		getFirefox().navigate().to("");
 	}
 	
 	
