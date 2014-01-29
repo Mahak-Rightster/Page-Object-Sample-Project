@@ -9,7 +9,7 @@ public class SignInObject{
 	
 	
 	
-	public static final String PAGE_TITLE_EPG_SCREEN = "Programme Guide - Live Sports - Rightster";
+	public static final String PAGE_TITLE_EPG_SCREEN = "Programme Guide";
 	public static final String ERR_MSG_NO_EMAIL = "Email cannot be blank.";
 	public static final String RIGHTSTER_ACCOUNT_NAME = "Rightster (switch)";
 	public static final String TEST_ACCOUNT_NAME = "Account mahak";
